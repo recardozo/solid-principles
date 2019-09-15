@@ -1,4 +1,4 @@
-package rightway;
+package rightway.hospitamanagement;
 
 import wrongway.Doctor;
 import wrongway.Employee;
