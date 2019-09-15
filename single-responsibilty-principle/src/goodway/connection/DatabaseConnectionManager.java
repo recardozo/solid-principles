@@ -1,9 +1,9 @@
-package goodway;
+package goodway.connection;
 
 public class DatabaseConnectionManager {
     
     public void connect () {
-        System.out.println ("connect");
+        System.out.println ("Connecting on database");
     }
     
     public void getConnectionObject () {

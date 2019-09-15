@@ -1,6 +1,7 @@
 package wrongway;
 
 public class Employee {
+    
     long id;
     String name;
     String department;
